@@ -1,0 +1,29 @@
+LIST OF TOPICS
+
+Arrays -> Basics, Vector, 2-D Vector *
+Strings *
+Stack *
+Queue *
+
+Linked list -> inserting *, deleting *, searching a node *, reversing *, merging two linked lists, linked list contains a cycle or not, 			doubly linked list and circular linked list
+Trees -> Binary tree *, traversal(inorder, postorder, preorder, level-order) *, inserting, searching and deleting a node, Binary search 		 tree *, segment trees (theory)
+Graphs -> BFS *, DFS *, Shortest path using BFS, graph contains a cycle or not, djikstra, floyd-warshall (theory)
+
+Heap -> priority queue
+Trie (theory) 
+
+Bit manipulation -> basics
+Mathematics -> basics
+Hashing *
+
+Recursion
+Backtracking
+Dynamic programming -> concept *, 0/1 Knapsack *
+
+Data structures left -> Maps, Sets
+
+Algorithms 
+	Searching -> Linear search *, Binary search *
+	Sorting -> Bubble sort *, Selection sort, Merge sort *, Quick sort(theory) *
+	
+SQL -> (basic) W3Schools *
